@@ -34,13 +34,6 @@ Step 6: The Test.cs file was created in the selected directory.
 
 ![6](https://github.com/huntercfreeman/VSCExtenNewCsharpClass/blob/main/images/6.png?raw=true)
 
-
-
-Step 7: (this step is here to showcase the generated class)
-
-![7](https://github.com/huntercfreeman/VSCExtenNewCsharpClass/blob/main/images/7.png?raw=true)
-
-
 The repo is on github publicly and is located at https://github.com/huntercfreeman/VSCExtenNewCsharpClass
 
 
