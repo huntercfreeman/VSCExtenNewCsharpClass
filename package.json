@@ -2,7 +2,7 @@
 	"name": "csharpnewclass",
 	"displayName": "C# New Class",
 	"description": "Make a new class context menu",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"publisher": "hunter-blazorExtensions",
 	"engines": {
 		"vscode": "^1.52.0"
