@@ -1,6 +1,6 @@
 {
 	"name": "csharpnewclass",
-	"displayName": "CSharpNewClass",
+	"displayName": "C# New Class",
 	"description": "Make a new class context menu",
 	"version": "0.0.1",
 	"publisher": "hunter-blazorExtensions",
