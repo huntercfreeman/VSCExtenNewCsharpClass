@@ -2,7 +2,7 @@ First I showcase the extension using images then I write about the extension tow
 
 Step 1: Create a .net project and right click a folder then click 'New C# Class' in the context menu.
 
-![1](https://github.com/huntercfreeman/VSCExtenNewCsharpClass/blob/main/images/1.png?raw=true)
+![1](https://github.com/huntercfreeman/VSCExtenNewCsharpClass/blob/main/images/1.jpg?raw=true)
 
 
 
