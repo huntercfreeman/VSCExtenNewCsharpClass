@@ -17,7 +17,7 @@
 		"commands": [
 			{
 				"command": "csharpExtension.newCSharpClass",
-				"title": "C# Class",
+				"title": "New C# Class",
 				"category": "CSharp"
 			}
 		],
